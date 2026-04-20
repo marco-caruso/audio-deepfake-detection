@@ -79,6 +79,6 @@ This project was carried out as part of the Bachelor's Degree in Computer Scienc
 
 ### 👥 Team Members
 Developed in collaboration by:
-* **Marco Caruso** - (https://github.com/.....)
-* **Marco Loddo** - (https://github.com/.....)
+* **Marco Caruso** - (https://github.com/marco-caruso)
+* **Marco Loddo** - (https://github.com/mark76jx17)
 * **Mauro Contu** - (https://github.com/.....)
