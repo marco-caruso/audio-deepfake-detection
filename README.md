@@ -1,4 +1,7 @@
 # audio-deepfake-detection
+
+> **Academic project** developed for the "Artificial Intelligence and Security" course at the **University of Cagliari**.
+
 Audio Deepfake Detection: 
 1. ML (SVM + MFCC/Mel)
 2. Deep Learning
@@ -62,3 +65,20 @@ According to AI agent theory, the task environment is characterized as follows:
 * **Stochastic:** Audio inputs exhibit high variability, containing potential noise or artifacts. The model's behavior may not be strictly deterministic due to the complexity of the signal and the model's architecture.
 * **Static:** Each audio file is analyzed individually. The system does not interact with an evolving or dynamic environment during the classification process.
 * **Discrete:** In terms of actions, the model performs a **binary decision** (Real vs. Fake) for each discrete audio input.
+
+
+
+<br>
+<br>
+
+## 🎓 Academic Context
+This project was carried out as part of the Bachelor's Degree in Computer Science at the **University of Cagliari (Università degli Studi di Cagliari)**.
+
+* **Course:** Artificial Intelligence and Security (Intelligenza Artificiale e Sicurezza)
+* **Academic Year:** 2024/2025
+
+### 👥 Team Members
+Developed in collaboration by:
+* **Marco Caruso** - (https://github.com/.....)
+* **Marco Loddo** - (https://github.com/.....)
+* **Mauro Contu** - (https://github.com/.....)
