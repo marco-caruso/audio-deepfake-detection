@@ -23,7 +23,7 @@ We established a solid performance baseline using traditional statistical models
 ### 2. Deep Learning Approach
 *Evolution of the detection system through advanced neural architectures.*
 
-> ⚠️ **Note:** This section is currently under development. It will be updated with details regarding **CNNs** for spectrogram analysis and **RNN/LSTM** models for temporal sequence processing as the code is uploaded.
+> ⚠️ **Note:** This section is currently under development. 
 
 ---
 
@@ -32,3 +32,4 @@ The experimental core of this project focuses on a critical real-world challenge
 
 * **The Issue:** Most detection models suffer from a drastic performance drop when exposed to background noise, making them unreliable in non-laboratory settings.
 * **Analysis:** We conducted an evaluation of system resilience under various **acoustic disturbance conditions**, aiming to bridge the gap between controlled environment tests and real-world application scenarios.
+> ⚠️ **Note:** This section is currently under development. 
